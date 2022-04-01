@@ -1,1 +1,2 @@
-# breast_cancer_midterm
+# housing_price_midterm
+This is the repo for midterm project of class p8106 which fit multiple models to housing price of King County Seattle data and interpret the final model which has best prediction performance.
